@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+.menu{
+    display: flex;
+    background-color: rgb(52, 114, 114);
+}
+.link{
+    margin-left: auto;
+    float: right;
+    text-decoration: none;
+    list-style: none;
+}
+form{
+    margin-top: 15px;
+}
